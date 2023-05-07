@@ -1,2 +1,3 @@
 # hello-world
-# this is a line of code
+# this is merge 1
+# this is merge 2
